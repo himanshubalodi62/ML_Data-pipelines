@@ -62,6 +62,7 @@ ENDPOINT_SCHEMA_URL=sdafasf
 MONGO_DB_URL=sdfasdfas
 ```
 
+
 Build docker image
 ```
 docker build -t data-pipeline:lts .
