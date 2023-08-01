@@ -8,6 +8,9 @@ Step 1: Create a conda environment
 conda --version
 ```
 
+
+
+
 Step2: Create  a conda environment
 ```
 conda create -p venv python==3.8 -y
